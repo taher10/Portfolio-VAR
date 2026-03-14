@@ -1,0 +1,30 @@
+
+==================================================
+ Historical Method
+==================================================
+Daily   VaR  at 95% confidence: $  -1049.28
+Monthly VaR  at 95% confidence: $  -4808.39
+Annual  VaR  at 95% confidence: $ -16656.74
+Daily   CVaR at 95% confidence: $  -1452.52
+Monthly CVaR at 95% confidence: $  -6656.30
+Annual  CVaR at 95% confidence: $ -23058.11
+
+==================================================
+ Parametric Method
+==================================================
+Daily   VaR  at 95% confidence: $  -1094.76
+Monthly VaR  at 95% confidence: $  -5016.84
+Annual  VaR  at 95% confidence: $ -17378.83
+Daily   CVaR at 95% confidence: $  -1511.25
+Monthly CVaR at 95% confidence: $  -6925.44
+Annual  CVaR at 95% confidence: $ -23990.42
+
+==================================================
+ Monte Carlo Method
+==================================================
+Daily   VaR  at 95% confidence: $  -1077.75
+Monthly VaR  at 95% confidence: $  -4938.87
+Annual  VaR  at 95% confidence: $ -17108.74
+Daily   CVaR at 95% confidence: $  -1306.70
+Monthly CVaR at 95% confidence: $  -5988.03
+Annual  CVaR at 95% confidence: $ -20743.16
